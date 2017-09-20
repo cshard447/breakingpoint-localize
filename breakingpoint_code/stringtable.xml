@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="BreakingPointLocalize">
+    <Package name="ITEMS_GENERAL">
+        <Key ID="STR_HG_CLOTHING_BOUGHT">
+            <Original>You have bought clothes for a total of %1</Original>
+        </Key>
+    </Package>
+    <Package name="ITEMS">
+        <Container name="Misc">
+            <Key ID="STR_ITEM_MATCHBOX">
+                <Original>Matchbox</Original>
+                <English>Matchbox</English>
+                <Russian>Спичечный коробок</Russian>
+            </Key>
+            <Key ID="STR_ITEM_MATCHBOX_DESC">
+                <Original>Matchbox</Original>
+                <English>Matchbox</English>
+                <Russian>Можно использовать для разжигания костра</Russian>
+            </Key>
+            <Key ID="STR_ITEM_MATCHBOX_DESC_SHORT">
+                <Original>Box of waterproof matches, double click with Wood Pile to create a fireplace.</Original>
+                <English>Box of waterproof matches, double click with Wood Pile to create a fireplace.</English>
+                <Russian>Коробка с водонепроницаемыми спичками, нажав два раза на спички имея при этом древесину, можно разжечь костер.</Russian>
+            </Key>
+            <Key ID="STR_INFECTED_NEEDLE">
+                <Original>Infected Needle</Original>
+                <English>Infected Needle</English>
+                <Russian>Зараженная игла</Russian>
+            </Key>
+            <Key ID="STR_INFECTED_NEEDLE_DESC">
+                <Original>Used For: Infecting your enemies.</Original>
+                <English>Used For: Infecting your enemies.</English>
+                <Russian>Используется для: Заражения ваших врагов.</Russian>
+            </Key>
+            <Key ID="STR_INFECTED_NEEDLE_SHORT">
+                <Original>Infected Needle</Original>
+                <English>Infected Needle</English>
+                <Russian>Зараженная игла</Russian>
+            </Key>
+            <Key ID="STR_INFECTED_NEEDLE_DESC_SHORT">
+                <Original>Used For: Infecting your enemies.</Original>
+                <English>Used For: Infecting your enemies.</English>
+                <Russian>Используется для: Заражения ваших врагов.</Russian>
+            </Key>
+        </Container>
+        <Container name="Traps">
+            <Key ID="STR_ITEM_BEAR_TRAP">
+                <Original>Bear Trap</Original>
+                <English>Bear Trap</English>
+                <Russian>Медвежий Капкан</Russian>
+            </Key>
+            <Key ID="STR_ITEM_BEAR_TRAP_DESC_SHORT">
+                <Original>Type: Bear Trap <br />Rounds: 1<br />Used on: Ground</Original>
+                <English>Type: Bear Trap <br />Rounds: 1<br />Used on: Ground</English>
+                <Russian>Тип: Медвежий Капкан <br />Количество: 1<br />Используется на: Земле</Russian>
+            </Key>
+        </Container>
+        <Container name="Foods">
+            <Key ID="STR_ITEM_CEREAL">
+                <Original>Cereal</Original>
+                <English>Cereal</English>
+                <Russian>Каша</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_DESC">
+                <Original>Cereal</Original>
+                <English>Cereal</English>
+                <Russian>Каша</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_BALLS">
+                <Original>Cereal (Bloodsucker Balls)</Original>
+                <English>Cereal (Bloodsucker Balls)</English>
+                <Russian>Каша(Кровавые Шарики)</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_BALLS_DESC_SHORT">
+                <Original>One bite and you won't be able to get rid of them!</Original>
+                <English>One bite and you won't be able to get rid of them!</English>
+                <Russian>Одна ложечка, и вы не сможете избавиться от них!</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_HONEY_HOOPS">
+                <Original>Cereal (Honey Hoops)</Original>
+                <English>Cereal (Honey Hoops)</English>
+                <Russian>Каша(Медовые Кольца)</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_HONEY_HOOPS_DESC_SHORT">
+                <Original>Now with real honey!</Original>
+                <English>Now with real honey!</English>
+                <Russian>Теперь с настоящим медом!</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_CRISPY_SQUARES">
+                <Original>Cereal (Crispy Squares)</Original>
+                <English>Cereal (Crispy Squares)</English>
+                <Russian>Каша(Хрустящие Кубики)</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_CRISPY_SQUARES_DESC_SHORT">
+                <Original>Probably stale by now</Original>
+                <English>Probably stale by now</English>
+                <Russian>Наверное, сейчас!</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_CRUNCHY_STARS">
+                <Original>Cereal (Crunchy Stars)</Original>
+                <English>Cereal (Crunchy Stars)</English>
+                <Russian>Каша(Хрустящие звезды)</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_CRUNCHY_STARS_DESC_SHORT">
+                <Original>Lets be honest, mostly sugar</Original>
+                <English>Lets be honest, mostly sugar</English>
+                <Russian>Давайте будем честными, в основном сахар!</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_CAPTAIN_KUSH">
+                <Original>Cereal (Captain Kush)</Original>
+                <English>Cereal (Captain Kush)</English>
+                <Russian>Каша(Капитан Куш)</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_CAPTAIN_KUSH_DESC_SHORT">
+                <Original>Guaranteed to cut the roof of your mouth</Original>
+                <English>Guaranteed to cut the roof of your mouth</English>
+                <Russian>Капитан Куш!</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_RICKARONIS">
+                <Original>Cereal? (Rickaronis)</Original>
+                <English>Cereal? (Rickaronish)</English>
+                <Russian>Каша(Капитан Куш)</Russian>
+            </Key>
+            <Key ID="STR_ITEM_CEREAL_RICKARONIS_DESC_SHORT">
+                <Original>A Ranger's best friend!</Original>
+                <English>A Ranger's best friend!</English>
+                <Russian>Лучший друг Рейнджера!</Russian>
+            </Key>
+        </Container>
+</Project>
